@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Factories\\": "src/Factories/",
+      "Products\\": "src/Products/",
+      "Categories\\": "src/Categories/",
+      "App\\": "src/App/"
+    }
+  }
+}

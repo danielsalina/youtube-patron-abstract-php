@@ -1,0 +1,3 @@
+# Patrón Abstract Factory en PHP: Diseña Sistemas Flexibles y Escalables
+
+- Aprende a implementar el Patrón Abstract Factory en PHP, un enfoque clave para crear sistemas flexibles y escalables. En este tutorial, descubrirás cómo este patrón de diseño te permite gestionar la creación de objetos de manera eficiente, facilitando el mantenimiento y la expansión de tu proyecto. A través de ejemplos prácticos, te guiaré paso a paso en la construcción de fábricas abstractas que aseguran una arquitectura robusta y adaptable a futuros cambios. ¡Optimiza tu código y lleva tus habilidades de PHP al siguiente nivel! Espero que el curso les sea de utilidad 🤙🏼
